@@ -18,8 +18,6 @@
 
 **Full‑stack developer** focused on building clean, scalable web apps end‑to‑end.
 
-**Currently:** 🐝 Building **TaskHive** (TypeScript everywhere)
-
 **Core:** React • TypeScript • Node/Express • MongoDB • JWT
 
 </div>

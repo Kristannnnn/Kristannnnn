@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F5A623&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+TypeScript+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+MongoDB;Clean+UX.+Secure+APIs.+Scalable+Architecture.)](https://github.com/Kristannnnn)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F5A623&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+TypeScript+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+MongoDB;Clean+UX.+Secure+APIs.+Scalable+Architecture.)](https://github.com/kjArgs
 
 </div>
 
@@ -113,7 +113,7 @@ const kristan = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kristannnnn&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/Kristannnnn)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kjArgs&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/kjArgs)
 
 </div>
 
@@ -123,7 +123,7 @@ const kristan = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40Kristannnnn-181717?style=for-the-badge&logo=github)](https://github.com/Kristannnnn)
+[![GitHub](https://img.shields.io/badge/GitHub-%40kjArgs-181717?style=for-the-badge&logo=github)](https://github.com/kjArgs)
 <!-- Add more links below when ready -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINK) -->
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_LINK) -->
@@ -136,6 +136,6 @@ const kristan = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%"/>
 
-*Made with 💛 by [Kristan James](https://github.com/Kristannnnn) · Last updated: 2026-03-24*
+*Made with 💛 by [Kristan James](https://github.com/kjArgs) · Last updated: 2026-03-24*
 
 </div>
